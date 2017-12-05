@@ -17,5 +17,4 @@ In this section we'll look at using Cloud Foundry, an open-source PaaS from Pivo
 
 
 
-## Running the Example
-This example uses H2 and so should run locally. Use `mvn spring-boot:run` for the `demo` module or simply run the application in your IDE using `public static void main`.
+ example uses H2 and so should run locally. Use `mvn spring-boot:run` for the `demo` module or simply run the application in your IDE using `public static void main`.
